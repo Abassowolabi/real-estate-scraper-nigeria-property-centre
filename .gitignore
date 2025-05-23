@@ -1,0 +1,37 @@
+# Python cache and environment
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.env
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints
+
+# VSCode and other IDE configs
+.vscode/
+.idea/
+*.swp
+
+# Playwright
+playwright-report/
+test-results/
+*.log
+
+# Output data
+*.json
+*.csv
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Pytest
+.cache/
+.pytest_cache/
