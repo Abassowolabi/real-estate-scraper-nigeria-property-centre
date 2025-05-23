@@ -1,7 +1,5 @@
 
-⸻
-
-🏠 real-estate-scraper-nigeria-property-centre 🇳🇬
+# 🏠 **real-estate-scraper-nigeria-property-centre** 🇳🇬
 
 A focused Playwright-based web scraper that collects property listings from Nigeria Property Centre, specifically houses for sale in Lagos.
 
@@ -10,50 +8,50 @@ It extracts essential details — title, price, location, property specs, agent 
 ⸻
 
 🔍 What It Does
-   •  Navigates through multiple pages of listings automatically
-   •  Extracts:
-   •  Title
-   •  Price
-   •  Location
-   •  Number of bedrooms, bathrooms, and toilets
-   •  Agent name and phone number
-   •  Image URL
-   •  Listing URL
-   •  Saves data to both JSON and CSV
+   •  Navigates through multiple pages of listings automatically  
+   •  Extracts:  
+   •  Title  
+   •  Price  
+   •  Location  
+   •  Number of bedrooms, bathrooms, and toilets  
+   •  Agent name and phone number  
+   •  Image URL  
+   •  Listing URL  
+   •  Saves data to both JSON and CSV  
    •  Configurable for scraping more pages or running headlessly
 
 ⸻
 
-⚙️ How to Run
-   1. Clone the repository
+⚙️ How to Run  
+1. Clone the repository:
 
 ```shell
 git clone https://github.com/your-username/real-estate-scraper-nigeria-property-centre.git
 cd real-estate-scraper-nigeria-property-centre
 ````
 
-2. Install dependencies
+2. Install dependencies:
 
 ```shell
 pip install playwright
 playwright install
 ```
 
-3. Run the script
+3. Run the script:
 
 ```shell
 python scraper.py
 ```
 
-4. View your data
-   •  properties.json
-   •  properties.csv
+4. View your data:
+   • `properties.json`
+   • `properties.csv`
 
 ⸻
 
 🧩 Customization
-•  Set the number of pages to scrape by adjusting the max\_pages variable in scraper.py.
-•  Change headless=False to headless=True to run the browser silently.
+•  Set the number of pages to scrape by adjusting the `max_pages` variable in `scraper.py`.
+•  Change `headless=False` to `headless=True` to run the browser silently.
 
 ⸻
 
@@ -96,6 +94,9 @@ Here’s a snapshot of the scraper running in the terminal:
 
 🙋‍♂️ Want to Collaborate or Hire?
 
-Abass Owolabi
-GitHub: @Abassowolabi
+**Abass Owolabi**
+GitHub: [@Abassowolabi](https://github.com/Abassowolabi)
 Email: [abassowolabi091021@gmail.com](mailto:abassowolabi091021@gmail.com)
+
+
+
