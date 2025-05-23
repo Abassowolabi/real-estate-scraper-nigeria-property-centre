@@ -40,7 +40,7 @@ playwright install
 3. Run the script:
 
 ```shell
-python scraper.py
+python estate_crawler.py
 ```
 
 4. View your data:
